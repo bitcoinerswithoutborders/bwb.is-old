@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/jascha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://bwb.is
+  * I am jascha (https://keybase.io/jascha) on keybase.
+  * I have a public key with fingerprint 4B31 9281 9DBB 5E24 3607  CB36 188C E5EC 577B 5544
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "4b3192819dbb5e243607cb36188ce5ec577b5544",
+            "host": "keybase.io",
+            "key_id": "188ce5ec577b5544",
+            "kid": "0101be22f43a5cc046964c3321434dd590273fb328300115a169d462a24c4bd83cbb0a",
+            "uid": "981316797245613b8ef15b242cc40100",
+            "username": "jascha"
+        },
+        "revoke": {
+            "sig_ids": [
+                "3136fa408b85224161d4b885b3e72eb5378c9a359639356d3e54d0fb8999600d0f"
+            ]
+        },
+        "service": {
+            "hostname": "bwb.is",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1420837737,
+    "expire_in": 157680000,
+    "prev": "56d639a27cf0f66541f95939a8be69281b5050bddc4347512d3f217a8c8466bc",
+    "seqno": 49,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMJgAnicbVJdbFRFFN5lC01XaITYKDExMDU+QAPzf2dWKwkVjUpMVnjir96ZO7e9
+3Xrvdne7UJdGCCEkFROilqIRrQ+aEAg/Dy0kpQlLNKH8xcTGCAqhUdu4qTUqkUiM
+OrfBN+dlZr75zne+c858viSVSCe722rRM03R28kr1cHexObTbUEFqMjrA5kKyJn5
+zQ/CDlPIF4KwBDKAKoIkFkh6SjGDKeHQ0YpwJIQ2zGjmOIoxSkEL6IyKcYSVUW7R
+rAkii9lLe+BZ9H/4ufkHiCBSBmOfEpdpDSmXnGpCMKKEeh6TEDvEVwQLAiFCzEVc
+epRjF1NNlSeIVgq6Vq53Xk4KRBB3pIMp44goYXzEFKZYa2pTwZhYNIXQfd1Ydpdb
+1J0u6G8BBVOOciauvxh0WMtFkNkKCCLcdykUSjCMKeLIo0oIpohxsFGMOEJLlzDJ
+iSSMe8Qw6kFfCSklh9AewXarbfOVAz0vHvfoQW61U60JitZPvhCVIh11W6yzVMpn
+YjulvnzM2WlU+4PodhWEnh2NDSibQjGIQpBBlqlLQSyHKIaCOA5xWoDZlQ8Kpj2I
+GczhAtoVpzFlK2ltWrcudrQPfc4ZRb5k0iJCGR5PWjHIoPI8bfvvMIQ94mPkuEIL
+yrnSIK6nJ4xAhkrr0+2wmrZloVvqLRjQf/HCtrpEMp1YtHBB/LsS6YaH//tz/tr6
++6lGHl4/Wn01XbsVbqq/+v3S3I4LqH7RT289Pzr9Znhk9rMNwzcn/3z0RnPdNe8N
+2Dxyd+ncln0v3xs9NjH95Yczh843vLiCljbdOffc2K9HTzW3Ns6su3Pjk/Q4m6zK
+Ku55qEx/T21t/iY7sqfnj6HD1a+WH9j789nK05Va6snD2aZdj4yMdTX+vaS2+tw7
+9zf+M/H4F8MDUtYaQH9l6NLU1MzAUz9kB7PvnlibbWsYTya/bql0DfQ9u/LT92+b
+ur8aJ3e3Lnhh4kTuo9Fc06EfP1h/afG3g7tbf7l3Rb8yd+Zm6sh7s3sujt+Ww+ay
+9/H+32ZWdwyturV8Y+/JxxYuO/jEqrGXukdeO/7dv2tTPDo=
+=ZZBd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jascha
+
+==================================================================
