@@ -5,10 +5,9 @@ module.exports = {
     ]
   , production: [
       'bwb.is'
-    , 'bwb.jaeh.at'
     ]
   , staging: [
-      'bwb-staging.jaeh.at'
+      'staging.bwb.is'
     ]
   }
 };
