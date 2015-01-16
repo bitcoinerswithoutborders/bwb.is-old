@@ -71,3 +71,77 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/jascha
 
 ==================================================================
+
+==================================================================
+https://keybase.io/exiledsurfer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://bwb.is
+  * I am exiledsurfer (https://keybase.io/exiledsurfer) on keybase.
+  * I have a public key with fingerprint D4F9 0F1F CD25 22CB 455F  E24D 0EB5 3D36 1FCF 2635
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "d4f90f1fcd2522cb455fe24d0eb53d361fcf2635",
+            "host": "keybase.io",
+            "key_id": "0eb53d361fcf2635",
+            "kid": "01010a963315e2b1198302ccd653b032b574ee0b280cc39f30325a10f38ea4dfd6ab0a",
+            "uid": "04f8f0d94776f9a1ec897b364ebb4600",
+            "username": "exiledsurfer"
+        },
+        "revoke": {
+            "sig_ids": [
+                "3eb37c16263b3b279d99ee7ced1fa79bf1723b9e6a5f6e277bbce8cada08a6830f"
+            ]
+        },
+        "service": {
+            "hostname": "bwb.is",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421450051,
+    "expire_in": 157680000,
+    "prev": "78a27d7df659354ebdc34dec2e6b4015e8a777e66a2d477697470842bab816b1",
+    "seqno": 44,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMJdAnicbVJvaJVVGL+3abeumH2oYB9y9g5BbKzz/7zvZYa0wehLKBYs1xjnz3Pm
+y/S+1/f+mcMJCxZp4RQuRlMzvwUVbFg2olpa9k8hjCCClIVlFJHNmB9spJ1X7Vvn
+fDic5/k9v+f3/M45s7IlV8yPrRt655WP71udP3f6SD339PtHuncHOrGjQWl3MAy3
+DheXhyCtpHG5FpQCy1yEHHbGEk6I0YxzB4RZBJpTS4XPOCIoDzqCbUk1q/A0WlWh
+M058zF8GY+uj/4Mfvp3AfqtIUIo5EI1xFFJEjLGCU40o0VwyAKRJiIyhkaM+xhVG
+joagmHVWKI2Up6vfpmMudMhGTErhIoXBhJHUVDDQmgmEMmAV0rLaAR4Nu+LtYKv1
+1EEa7OkIUmgkw5C5UI2HvPBqUOoPKGgqDRZetqaayMhGEYA0YLFTMtIOS0J1BEJx
+J4BIqbWB0CirUKiEn8YFA57bd23E5hZ55tQdBXpEd8ZVr6qSJrXEJNt9bFutVill
+cmqjlQwzAnrwTvWgjsvWP5AvaEBajZNyUMIeaWpxRocZwYwjxHGHn60SpzAYZwgu
+RYj8ytpAw1PKUBFppXWCR5R7c6yhzIIhIDRD/iVCJaUEIRSxmZWRZBKFjGilQyw0
+DrJ5dpaToMSY16mGPKe3rKxq9RSCPZ+cem5ZLl/M3b38ruyP5Yr33v/fzzOHCze3
+fHSP6hl+5lph/bHmlb/2PjXfqlouNEfGz7/VvELS7vadxam+A42Bxd/rzZYHZ+Uh
+MrZrfnR9+8yG6bbeTTcOfcAe2d9zfPO+ZLxnbvGha7+2tZ79fKk2l5+dWZwqXF5Y
+6Ppa/bTq7IffHZtuzqxovtw/Nf79WEfltwfePj3R99LBS3hyZFY9cX1j1z5azj/e
+t2biC7Ls0sBlPrl0/MUbB954+NTrXXQaXTgsPitt6dlw8XrhG/TPo811NP1jiV9d
+mOzDq988UZzt2vzz3z/OjZ7f9O3JL1sXC+Jc53z9+R+evdnZfXHriblfvopf7V11
+5r0XnoQdax/782phYk1/e9vW13pPfnrw6Lv/AkNTRY4=
+=1qlG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/exiledsurfer
+
+==================================================================
