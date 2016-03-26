@@ -1,0 +1,28 @@
+{
+  "name": "bwb.is",
+  "version": "0.23.5",
+  "author": "Jascha Ehrenreich <jascha@jaeh.at>",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "magic-root": "git://github.com/magic/root"
+  },
+  "contributors": [
+    {
+      "name": "jascha ehrenreich",
+      "email": "jascha@magicshifter.net",
+      "github": "jaeh"
+    },
+    {
+      "name": "michael parenti",
+      "github": "exiledsurfer"
+    },
+    {
+      "name": "mike gogulski",
+      "github": "mikegogulski"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitcoinerswithoutborders/bwb.is.git"
+  }
+}

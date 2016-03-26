@@ -1,1 +1,9 @@
-*.css
+*.sublime-project
+*.sublime-workspace
+node_modules
+.DS_Store
+npm-debug.log
+dist
+out
+src/public/css/main.css
+IP.txt
