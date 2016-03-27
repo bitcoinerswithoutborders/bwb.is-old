@@ -1,4 +1,4 @@
-export CONTAINER_NAME=wiznwit-com
+export CONTAINER_NAME=bwb.is
 
 # default arguments:
 # export NODE_BIN=node_modules/.bin
