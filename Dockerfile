@@ -1,7 +1,7 @@
 # wizardsatwork/grundstein/postgres dockerfile
 # VERSION 0.0.1
 
-FROM magic:root
+FROM wiznwit:magic
 
 MAINTAINER BitcoinersWithoutBorders <dev@bwb.is>
 ENV REFRESHED_AT 2016-28-03
