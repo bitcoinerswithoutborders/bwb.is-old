@@ -3,7 +3,7 @@
   "version": "0.23.5",
   "author": "Jascha Ehrenreich <jascha@jaeh.at>",
   "license": "AGPL-3.0",
-  "dependencies": {
+  "devDependencies": {
     "magic-root": "git://github.com/magic/root"
   },
   "contributors": [
